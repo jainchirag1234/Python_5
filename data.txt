@@ -1,0 +1,2 @@
+Python is a powerful programming language
+Python is used in data science
